@@ -1,0 +1,2 @@
+[6896:22600:0831/151927.732:VERBOSE1:installer.cc(383)] "C:\Users\amard\Downloads\ChromeSetup.exe" --port=6273 --install=appguid={8A69D345-D564-463C-AFF1-A69D9E530F96}&iid={EEBB74D0-042C-0A15-4BC9-B9725F645EF3}&lang=en-GB&browser=4&usagestats=1&appname=Google%20Chrome&needsadmin=prefers&ap=x64-statsdef_1&installdataindex=empty --enable-logging --vmodule=*/components/winhttp/*=1,*/components/update_client/*=2,*/chrome/updater/*=2
+[6896:22600:0831/152006.315:VERBOSE1:installer.cc(488)] Metainstaller WMain returned: 73500, Windows error: 0
